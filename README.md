@@ -47,8 +47,3 @@ Durante el desarrollo, se utilizó **PM2 y Nginx** en entornos locales para simu
 
 ---
 
-## 🏫 Información académica
-
-- **Materia:** Desarrollo de Aplicaciones Web  
-- **Carrera:** Técnico Universitario en Desarrollo Web  
-- **Universidad:** UNER - Facultad de Ciencias de la Administración
